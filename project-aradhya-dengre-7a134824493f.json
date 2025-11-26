@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-aradhya-dengre",
+  "private_key_id": "7a134824493fda32b3fa2b246761f54702c8425d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr5smRdSzT4bzK\nCjsBh+QyH9gno9wvP5WpcCzilxrEL1T9bYI1Fd2CDIjyMgdLOR541myMrDpRfvFi\n0op+WDTrCm3a5ObP9HWIQ33asb9aOKmHWlJ/Zrz2cAXCQJIMzWZuscpt07ZsvD60\n1ipooXL7JJyPd3MfDdPHDkHCZccBYqUkboSGv4EIUbyI9i8HOjYT85XTI5uWHeo/\nrbDAaTrKVYTgw5bu/GAW+B8+kBKeDTXHgAITyEjADQyEySOM9KjROm0qHqituk7w\nabIb7J+dTOzJ0UC37al2Y2pUcTH31uIUlF4nATfvFJ03l0f7T+4GmMyl/dNaC4Dv\n70iKRTj1AgMBAAECggEACcgVV2X36dg1ULg9HBzKPi5UGgokiobvUmrqdiJSO/06\nTglsy7royQoP9aglhIESXAUavCgSUXZyid457Aj2fRr+auKnkTtZ2ZBT/9CP3bRn\ntFoBY8DjpvcM4z04klEfYqEfSBljjtOcLD7oWHfUMR8ONMoZQbHpurDAl5OiO7cN\noLpx5I7i7dxz5nRmgMFONIRUrszhsyTzycWf6NDlytJ4eJ0ftBjfRZMaUfRtB3Yr\nyeoLrTIecTwrfJn6YFmUj9X6VYicBfEs6w7QC9FrXHy/vBRVDPBqJosSws/+1bAo\nErW/wMxNN5OnEuLIJAzKjPqmv8D1DmA4+B9ZRQaHqQKBgQDr5ak9njpu6GkhWVGj\nDBhcV705KRdgoYuPsNOc50WyOe8HiJlhVI/Qiltk1HAk9cLV/wnrSMc0Od+En9mu\nH7DiAXEVA3fyZFnST6gnC5/cHMoGBEq0AH9wdGP6K2UnDFHfFYrc/YM2JGLFbADy\n2vR82Td/H0lqllUfz0uKgmHNnwKBgQC6jP8JFY3PfD2brEkuEwjhGz0P3cFl0Sjm\n9gAoVG3ZwISUCI/JKpJVKxRmz88anY3WX1wWBXNxtZW+Ncisptlkk3odELqmdbkl\n0GpzL5zAyjsp0w7qbdmKOHmKgFeUPJC5wjND6yEOrapwdSgDp0gR2wDGl6rFPLf9\nUWKKoR+I6wKBgQDSZR+xSXKsgLVjfRqG5b7EfazTUob7NJoZKolSpCNRdsJuYbML\nUDSEtyIUqDTtghSocLQUGfEx73wf+cJYvwMwUEDfkRxmIILMRSegy4lk9HhrLWDD\ncr43OlgBRLsPPLm40qnruGBS5dkCY/XkpMzynXoV832zhymdGXIys18v2QKBgAXi\nOoz7zAw2O+80AN7eJNKMvGFKujXO4f5e1eRvvUM36jaNCpPqrtDW2f7gIQUS4Q1Y\n1puvMlPsyTtFkP25CXQ9noVaKLjlT6CcsS7O2p/OAQ2xpW/JZSoR2+t9XsXDH0Fs\nmZdTzCgdXBnN6CQtW32MrbqVwAIWhysLLRN4P3lfAoGBAIFf3XFbBFdOPUWDbhlI\n/yPkQ8Db+DWSWCwE8bhq+PDHwp3CMwA0bzZHXxAREXVqB4LfMgWcg7FG3dONUTTJ\nEkL94Z///JH6gPZ5MgFoyV+8Tmkqd5G09+49J8PQN8GVgfJm6ZCeGSJxvD9nG3wS\nQ9zvBJdTWnv9iqBmLFrXfv3n\n-----END PRIVATE KEY-----\n",
+  "client_email": "gaurav@project-aradhya-dengre.iam.gserviceaccount.com",
+  "client_id": "109018392998272823585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gaurav%40project-aradhya-dengre.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

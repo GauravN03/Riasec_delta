@@ -1,3 +1,11 @@
-Flask
-python-dotenv
+Flask==2.3.5
+gspread==6.9.0
+google-auth==2.23.0
+google-auth-oauthlib==1.2.0
+oauthlib==3.2.2
+requests==2.32.0
+Jinja2==3.1.2        # Flask uses this for templating
+itsdangerous==2.1.2  # Flask dependency
+Werkzeug==2.3.8      # Flask dependency
+click==8.2.0         
 gunicorn
