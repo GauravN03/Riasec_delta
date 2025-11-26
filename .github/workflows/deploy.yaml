@@ -2,7 +2,7 @@ name: Deploy to Cloud Run
 
 on:
   push:
-    branches: [ riasec-delta/cicd ]
+    branches: [ cicd ]
 
 env:
   PROJECT_ID: project-aradhya-dengre
