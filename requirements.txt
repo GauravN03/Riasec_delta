@@ -9,3 +9,4 @@ itsdangerous
 Werkzeug
 click      
 gunicorn
+dotenv
