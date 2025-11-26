@@ -7,7 +7,7 @@ on:
 env:
   PROJECT_ID: project-aradhya-dengre
   REGION: asia-southeast1
-  SERVICE_NAME: riasec-responses-service
+  SERVICE_NAME: riasec-responses
   REPO_NAME: riasec-responses
 
 jobs:
